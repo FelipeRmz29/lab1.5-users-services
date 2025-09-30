@@ -1,8 +1,8 @@
 # 💻 Laboratorio 1.5: Administración de Usuarios y Servicios en Linux
 
-## Nombre del Estudiante: Felipe [Tu Apellido]
-## Sistema Operativo: [Tu Distribución: Ej. Ubuntu 22.04 LTS]
-## Fecha de Entrega: [Fecha actual]
+## Nombre del Estudiante: Felipe Ramírez
+## Sistema Operativo: Ubuntu 22.04 LTS
+## Fecha de Entrega: 30/09/2025
 
 Este proyecto documenta las habilidades fundamentales de administración de sistemas Linux, incluyendo la gestión de usuarios, grupos, permisos de archivos, y el control de servicios del sistema (`systemd`).
 
