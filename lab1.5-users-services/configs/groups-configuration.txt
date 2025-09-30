@@ -1,0 +1,6 @@
+alice : alice developers administrators
+bob : bob developers
+charlie : charlie testers
+alice : alice developers administrators
+charlie : charlie testers
+charlie : charlie testers

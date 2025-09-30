@@ -1,0 +1,17 @@
+alice:x:1001:1001::/home/alice:/bin/bash
+bob:x:1002:1002::/home/bob:/bin/bash
+charlie:x:1003:1003::/home/charlie:/bin/bash
+total 24
+drwxr-xr-x  6 root    root    4096 Sep 30 03:12 .
+drwxr-xr-x 23 root    root    4096 Sep 14 00:45 ..
+drwxr-x---  2 alice   alice   4096 Sep 30 03:12 alice
+drwxr-x---  2 bob     bob     4096 Sep 30 03:12 bob
+drwxr-x---  2 charlie charlie 4096 Sep 30 03:12 charlie
+drwxr-x--- 18 Felipe  Felipe  4096 Sep 30 03:10 Felipe
+total 24
+drwxr-xr-x  6 root    root    4096 Sep 30 03:12 .
+drwxr-xr-x 23 root    root    4096 Sep 14 00:45 ..
+drwxr-x---  2 alice   alice   4096 Sep 30 03:12 alice
+drwxr-x---  2 bob     bob     4096 Sep 30 03:12 bob
+drwxr-x---  2 charlie charlie 4096 Sep 30 03:12 charlie
+drwxr-x--- 18 Felipe  Felipe  4096 Sep 30 03:10 Felipe
