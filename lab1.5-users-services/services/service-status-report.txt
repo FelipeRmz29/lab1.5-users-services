@@ -1,0 +1,17 @@
+● ssh.service - OpenBSD Secure Shell server
+     Loaded: loaded (/usr/lib/systemd/system/ssh.service; enabled; preset: enabled)
+     Active: active (running) since Tue 2025-09-30 12:59:28 UTC; 22min ago
+TriggeredBy: ● ssh.socket
+       Docs: man:sshd(8)
+             man:sshd_config(5)
+   Main PID: 1301 (sshd)
+      Tasks: 1 (limit: 4602)
+     Memory: 2.1M (peak: 2.4M)
+        CPU: 70ms
+     CGroup: /system.slice/ssh.service
+             └─1301 "sshd: /usr/sbin/sshd -D [listener] 0 of 10-100 startups"
+
+Sep 30 12:59:28 Felipan systemd[1]: Starting ssh.service - OpenBSD Secure Shell server...
+Sep 30 12:59:28 Felipan sshd[1301]: Server listening on 0.0.0.0 port 22.
+Sep 30 12:59:28 Felipan sshd[1301]: Server listening on :: port 22.
+Sep 30 12:59:28 Felipan systemd[1]: Started ssh.service - OpenBSD Secure Shell server.
