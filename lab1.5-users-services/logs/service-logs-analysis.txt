@@ -1,0 +1,171 @@
+Sep 30 02:46:19 Felipan kernel: vmwgfx 0000:00:02.0: [drm] *ERROR* vmwgfx seems to be running on an unsupported hypervisor.
+Sep 30 02:46:19 Felipan kernel: vmwgfx 0000:00:02.0: [drm] *ERROR* This configuration is likely broken.
+Sep 30 02:46:19 Felipan kernel: vmwgfx 0000:00:02.0: [drm] *ERROR* Please switch to a supported graphics device to avoid problems.
+Sep 30 02:46:34 Felipan gdm-password][1822]: gkr-pam: unable to locate daemon control file
+Sep 30 02:46:34 Felipan gdm3[1198]: Gdm: on_display_added: assertion 'GDM_IS_REMOTE_DISPLAY (display)' failed
+Sep 30 02:46:34 Felipan systemd[1833]: Failed to start app-gnome-gnome\x2dkeyring\x2dpkcs11-2063.scope - Application launched by gnome-session-binary.
+Sep 30 02:46:34 Felipan systemd[1833]: Failed to start app-gnome-gnome\x2dkeyring\x2dsecrets-2065.scope - Application launched by gnome-session-binary.
+Sep 30 02:46:34 Felipan systemd[1833]: Failed to start app-gnome-gnome\x2dkeyring\x2dssh-2060.scope - Application launched by gnome-session-binary.
+Sep 30 02:46:35 Felipan systemd[1833]: Failed to start app-gnome-xdg\x2duser\x2ddirs-2077.scope - Application launched by gnome-session-binary.
+Sep 30 02:46:36 Felipan systemd[1833]: Failed to start app-gnome-ubuntu\x2dreport\x2don\x2dupgrade-2269.scope - Application launched by gnome-session-binary.
+Sep 30 02:46:37 Felipan gdm3[1198]: Gdm: on_display_removed: assertion 'GDM_IS_REMOTE_DISPLAY (display)' failed
+-- Boot 466f4f33ff1440e39be9e703b3414429 --
+Sep 30 02:59:53 Felipan kernel: vmwgfx 0000:00:02.0: [drm] *ERROR* vmwgfx seems to be running on an unsupported hypervisor.
+Sep 30 02:59:53 Felipan kernel: vmwgfx 0000:00:02.0: [drm] *ERROR* This configuration is likely broken.
+Sep 30 02:59:53 Felipan kernel: vmwgfx 0000:00:02.0: [drm] *ERROR* Please switch to a supported graphics device to avoid problems.
+Sep 30 03:01:22 Felipan gdm-password][1784]: gkr-pam: unable to locate daemon control file
+Sep 30 03:01:24 Felipan gdm3[1092]: Gdm: on_display_added: assertion 'GDM_IS_REMOTE_DISPLAY (display)' failed
+Sep 30 03:01:25 Felipan systemd[1797]: Failed to start app-gnome-gnome\x2dkeyring\x2dpkcs11-2021.scope - Application launched by gnome-session-binary.
+Sep 30 03:01:25 Felipan systemd[1797]: Failed to start app-gnome-gnome\x2dkeyring\x2dssh-2020.scope - Application launched by gnome-session-binary.
+Sep 30 03:01:27 Felipan gdm3[1092]: Gdm: on_display_removed: assertion 'GDM_IS_REMOTE_DISPLAY (display)' failed
+Sep 30 03:02:52 Felipan kernel: /dev/sr0: Can't open blockdev
+Sep 30 03:05:34 Felipan gdm3[1092]: Gdm: on_display_added: assertion 'GDM_IS_REMOTE_DISPLAY (display)' failed
+Sep 30 03:05:34 Felipan gdm3[1092]: Gdm: Failed to list cached users: GDBus.Error:org.freedesktop.systemd1.TransactionIsDestructive: Transaction for accounts-daemon.service/start is destructive (systemd-update-utmp.service has 'stop' job queued, but 'start' is included in transaction).
+-- Boot bb2112bf1ec34a598d8f6cd47b668b4b --
+Sep 30 03:04:37 Felipan kernel: vmwgfx 0000:00:02.0: [drm] *ERROR* vmwgfx seems to be running on an unsupported hypervisor.
+Sep 30 03:04:37 Felipan kernel: vmwgfx 0000:00:02.0: [drm] *ERROR* This configuration is likely broken.
+Sep 30 03:04:37 Felipan kernel: vmwgfx 0000:00:02.0: [drm] *ERROR* Please switch to a supported graphics device to avoid problems.
+Sep 30 03:05:39 Felipan kernel: rcu: INFO: rcu_preempt detected expedited stalls on CPUs/tasks: { 3-...D } 62011 jiffies s: 189 root: 0x8/.
+Sep 30 03:05:39 Felipan kernel: rcu: blocking rcu_node structures (internal RCU debug):
+-- Boot ae767540f01241209534e862b02a5553 --
+Sep 30 03:08:52 Felipan kernel: vmwgfx 0000:00:02.0: [drm] *ERROR* vmwgfx seems to be running on an unsupported hypervisor.
+Sep 30 03:08:52 Felipan kernel: vmwgfx 0000:00:02.0: [drm] *ERROR* This configuration is likely broken.
+Sep 30 03:08:52 Felipan kernel: vmwgfx 0000:00:02.0: [drm] *ERROR* Please switch to a supported graphics device to avoid problems.
+Sep 30 03:09:46 Felipan gdm-password][2012]: gkr-pam: unable to locate daemon control file
+Sep 30 03:09:46 Felipan gdm3[1307]: Gdm: on_display_added: assertion 'GDM_IS_REMOTE_DISPLAY (display)' failed
+Sep 30 03:09:47 Felipan systemd[2065]: Failed to start app-gnome-gnome\x2dkeyring\x2dsecrets-2304.scope - Application launched by gnome-session-binary.
+Sep 30 03:09:47 Felipan systemd[2065]: Failed to start app-gnome-gnome\x2dkeyring\x2dssh-2295.scope - Application launched by gnome-session-binary.
+Sep 30 03:09:48 Felipan systemd[2065]: Failed to start app-gnome-user\x2ddirs\x2dupdate\x2dgtk-2516.scope - Application launched by gnome-session-binary.
+Sep 30 03:09:49 Felipan kernel: /dev/sr0: Can't open blockdev
+Sep 30 03:09:50 Felipan gdm3[1307]: Gdm: on_display_removed: assertion 'GDM_IS_REMOTE_DISPLAY (display)' failed
+Sep 30 04:44:19 Felipan kernel: rcu: INFO: rcu_preempt self-detected stall on CPU
+Sep 30 04:44:19 Felipan kernel: rcu:         1-...!: (1 ticks this GP) idle=d49c/1/0x4000000000000000 softirq=19018/19018 fqs=0
+Sep 30 04:44:19 Felipan kernel: rcu:         (t=78440 jiffies g=28341 q=9 ncpus=4)
+Sep 30 04:44:19 Felipan kernel: rcu: rcu_preempt kthread timer wakeup didn't happen for 78437 jiffies! g28341 f0x0 RCU_GP_WAIT_FQS(5) ->state=0x402
+Sep 30 04:44:19 Felipan kernel: rcu:         Possible timer handling issue on cpu=0 timer-softirq=9957
+Sep 30 04:44:19 Felipan kernel: rcu: rcu_preempt kthread starved for 78440 jiffies! g28341 f0x0 RCU_GP_WAIT_FQS(5) ->state=0x402 ->cpu=0
+Sep 30 04:44:19 Felipan kernel: rcu:         Unless rcu_preempt kthread gets sufficient CPU time, OOM is now expected behavior.
+Sep 30 04:44:19 Felipan kernel: rcu: RCU grace-period kthread stack dump:
+Sep 30 04:53:40 Felipan (rvice.sh)[6615]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 04:53:50 Felipan (rvice.sh)[6618]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 04:54:00 Felipan (rvice.sh)[6619]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 04:54:10 Felipan (rvice.sh)[6620]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 04:54:21 Felipan (rvice.sh)[6623]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 04:54:31 Felipan (rvice.sh)[6624]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 04:54:41 Felipan (rvice.sh)[6626]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 04:54:52 Felipan (rvice.sh)[6667]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 04:55:02 Felipan (rvice.sh)[6948]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 04:55:12 Felipan (rvice.sh)[6954]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 04:55:22 Felipan (rvice.sh)[6955]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 04:55:32 Felipan (rvice.sh)[6956]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 04:55:43 Felipan (rvice.sh)[6957]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 04:55:53 Felipan (rvice.sh)[6962]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 04:56:03 Felipan (rvice.sh)[6999]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 05:03:03 Felipan (rvice.sh)[7234]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 05:03:13 Felipan (rvice.sh)[7242]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 05:03:24 Felipan (rvice.sh)[7260]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 05:03:34 Felipan (rvice.sh)[7261]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 05:03:44 Felipan (rvice.sh)[7262]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 05:03:54 Felipan (rvice.sh)[7263]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 05:04:05 Felipan (rvice.sh)[7319]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 05:04:15 Felipan (rvice.sh)[7373]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 05:04:25 Felipan (rvice.sh)[7375]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 05:04:36 Felipan (rvice.sh)[7384]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 05:04:46 Felipan (rvice.sh)[7385]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 05:04:56 Felipan (rvice.sh)[7386]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 05:05:06 Felipan (rvice.sh)[7395]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 05:05:17 Felipan (rvice.sh)[7399]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 05:05:27 Felipan (rvice.sh)[7401]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 05:05:37 Felipan (rvice.sh)[7537]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 05:05:41 Felipan (rvice.sh)[7542]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 05:05:51 Felipan (rvice.sh)[7552]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 05:06:01 Felipan (rvice.sh)[7553]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 05:06:11 Felipan (rvice.sh)[7554]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 05:06:21 Felipan (rvice.sh)[7555]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 05:06:32 Felipan (rvice.sh)[7557]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 05:06:42 Felipan (rvice.sh)[7558]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 05:06:52 Felipan (rvice.sh)[7560]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 05:07:03 Felipan (rvice.sh)[7561]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 05:07:13 Felipan (rvice.sh)[7562]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 05:07:23 Felipan (rvice.sh)[7563]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 05:07:33 Felipan (rvice.sh)[7564]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 05:07:44 Felipan (rvice.sh)[7565]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 05:07:54 Felipan (rvice.sh)[7566]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 05:08:04 Felipan (rvice.sh)[7568]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 05:08:14 Felipan (rvice.sh)[7569]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 05:08:25 Felipan (rvice.sh)[7570]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 05:08:35 Felipan (rvice.sh)[7571]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 05:08:45 Felipan (rvice.sh)[7572]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 05:08:55 Felipan (rvice.sh)[7573]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 05:09:05 Felipan (rvice.sh)[7575]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 05:09:16 Felipan (rvice.sh)[7576]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 05:09:26 Felipan (rvice.sh)[7577]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 05:09:36 Felipan (rvice.sh)[7578]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 05:09:46 Felipan (rvice.sh)[7579]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 05:09:57 Felipan (rvice.sh)[7580]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 05:10:07 Felipan (rvice.sh)[7583]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 05:10:17 Felipan (rvice.sh)[7587]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 05:10:27 Felipan (rvice.sh)[7588]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 05:10:38 Felipan (rvice.sh)[7589]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 05:10:48 Felipan (rvice.sh)[7590]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 05:10:58 Felipan (rvice.sh)[7599]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 05:17:32 Felipan (rvice.sh)[7608]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 05:17:42 Felipan (rvice.sh)[7618]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 05:17:52 Felipan (rvice.sh)[7693]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 05:18:02 Felipan (rvice.sh)[7698]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 05:18:13 Felipan (rvice.sh)[7699]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 05:18:23 Felipan (rvice.sh)[7703]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 05:18:33 Felipan (rvice.sh)[7708]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 05:18:44 Felipan (rvice.sh)[7710]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 05:18:54 Felipan (rvice.sh)[7980]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 05:18:57 Felipan (rvice.sh)[7985]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 05:19:07 Felipan (rvice.sh)[7989]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 05:19:17 Felipan (rvice.sh)[7990]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 05:19:27 Felipan (rvice.sh)[8005]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 05:19:37 Felipan (rvice.sh)[8006]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 05:19:48 Felipan (rvice.sh)[8007]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 05:19:58 Felipan (rvice.sh)[8009]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 05:20:08 Felipan (rvice.sh)[8010]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 05:20:19 Felipan (rvice.sh)[8015]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 05:20:29 Felipan (rvice.sh)[8016]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 05:20:39 Felipan (rvice.sh)[8017]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 05:20:49 Felipan (rvice.sh)[8080]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 05:21:00 Felipan (rvice.sh)[8083]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 05:21:00 Felipan systemd[1]: Failed to start apache2.service - The Apache HTTP Server.
+Sep 30 05:21:10 Felipan (rvice.sh)[8117]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 05:21:20 Felipan (rvice.sh)[8195]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 05:21:30 Felipan (rvice.sh)[8196]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 05:21:40 Felipan (rvice.sh)[8197]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 05:21:51 Felipan (rvice.sh)[8198]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 05:22:01 Felipan (rvice.sh)[8199]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 05:22:11 Felipan (rvice.sh)[8206]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 05:22:21 Felipan (rvice.sh)[8208]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 05:22:32 Felipan (rvice.sh)[8211]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 05:22:42 Felipan (rvice.sh)[8212]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 05:22:52 Felipan (rvice.sh)[8220]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 05:23:02 Felipan (rvice.sh)[8221]: simple-service.service: Failed to determine user credentials: No such process
+Sep 30 05:23:13 Felipan (rvice.sh)[8227]: simple-service.service: Failed to determine user credentials: No such process
+Felipe   tty2         tty2             Tue Sep 30 03:09   still logged in
+Felipe   seat0        login screen     Tue Sep 30 03:09   still logged in
+reboot   system boot  6.14.0-32-generi Tue Sep 30 03:08   still running
+reboot   system boot  6.14.0-32-generi Tue Sep 30 03:04   still running
+Felipe   tty2         tty2             Tue Sep 30 03:01 - down   (00:04)
+Felipe   seat0        login screen     Tue Sep 30 03:01 - down   (00:04)
+reboot   system boot  6.14.0-32-generi Tue Sep 30 02:59 - 03:05  (00:05)
+Felipe   tty2         tty2             Tue Sep 30 02:46 - down   (00:14)
+Felipe   seat0        login screen     Tue Sep 30 02:46 - down   (00:14)
+reboot   system boot  6.14.0-29-generi Tue Sep 30 02:46 - 03:00  (00:14)
+Felipe   tty2         tty2             Mon Sep 22 19:05 - crash (7+07:41)
+Felipe   seat0        login screen     Mon Sep 22 19:05 - crash (7+07:41)
+reboot   system boot  6.14.0-29-generi Mon Sep 22 19:03 - 03:00 (7+07:57)
+Felipe   tty2         tty2             Thu Sep 18 15:20 - crash (4+03:42)
+Felipe   seat0        login screen     Thu Sep 18 15:20 - crash (4+03:42)
+reboot   system boot  6.14.0-29-generi Thu Sep 18 15:20 - 03:00 (11+11:40)
+Felipe   tty2         tty2             Thu Sep 18 15:18 - crash  (00:01)
+Felipe   seat0        login screen     Thu Sep 18 15:18 - crash  (00:01)
+reboot   system boot  6.14.0-29-generi Thu Sep 18 15:18 - 03:00 (11+11:42)
+Felipe   tty2         tty2             Sun Sep 14 01:16 - crash (4+14:02)
+Felipe   seat0        login screen     Sun Sep 14 01:16 - crash (4+14:02)
+reboot   system boot  6.14.0-29-generi Sun Sep 14 01:11 - 03:00 (16+01:48)
+
+wtmp begins Sun Sep 14 01:11:53 2025

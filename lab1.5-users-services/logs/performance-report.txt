@@ -1,0 +1,23 @@
+--- System Performance Report ---
+Date: Tue Sep 30 01:11:23 PM UTC 2025
+Uptime:
+ 13:11:23 up 12 min,  1 user,  load average: 0.19, 0.20, 0.12
+--- Memory Usage ---
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       1.2Gi       1.3Gi        34Mi       1.5Gi       2.6Gi
+Swap:             0B          0B          0B
+--- Disk Usage ---
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           392M  1.6M  391M   1% /run
+/dev/sda2        49G  7.3G   40G  16% /
+tmpfs           2.0G     0  2.0G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           392M  124K  392M   1% /run/user/1000
+/dev/sr0         51M   51M     0 100% /media/Felipe/VBox_GAs_7.2.0
+--- Top 5 Processes (CPU) ---
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+Felipe      2249  3.3 10.0 4917172 403212 ?      Ssl  12:59   0:23 /usr/bin/gnome-shell
+root         722  0.9  1.0 1997100 43576 ?       Ssl  12:59   0:07 /usr/lib/snapd/snapd
+Felipe      3223  0.6  6.6 2418660 266308 ?      Sl   13:02   0:03 /usr/bin/nautilus --gapplication-service
+Felipe      3305  0.5  1.3 556552 54124 ?        Ssl  13:04   0:02 /usr/libexec/gnome-terminal-server
+root           1  0.5  0.3  23212 14060 ?        Ss   12:59   0:03 /sbin/init splash
